@@ -16,4 +16,4 @@ I've been working with Data Engineering since the beginning of 2021. In this tim
 ♟ I'm also a chess player (not a good one, but I try). Well, why not mix up my skills? I'm currently developing a Data Pipeline to fetch and analyze data from chess games, as a personal project. Here's what I've got so far:
 - [the-week-in-chess-python-client](https://github.com/Miller-GS/the-week-in-chess-python-client): A Python client to scrape chess games from the website [The Week in Chess](https://theweekinchess.com/).
 - fide-python-client :construction: : A Python client to fetch player data from the [International Chess Federation](https://www.fide.com/)
-- chess-etl :construction: : A Data Pipeline that fetches and models chess games and player data, using Apache Airflow and DBT.
+- [chess-etl](https://github.com/Miller-GS/chess-etl) :construction: : A Data Pipeline that fetches and models chess games and player data, using Apache Airflow and DBT.
